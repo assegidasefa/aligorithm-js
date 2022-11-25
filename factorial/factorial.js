@@ -12,3 +12,5 @@ const factorial = (n) => {
 const product = factorial(0);
 
 console.log(product);
+
+// big-o = o(n)
