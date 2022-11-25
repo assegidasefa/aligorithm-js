@@ -8,3 +8,5 @@ const fibonacci = (n) => {
 
 const val = fibonacci(7);
 console.log(val);
+
+// Big-o = o(n)
