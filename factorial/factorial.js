@@ -22,3 +22,5 @@ const recurssiveFactorial = (n) => {
 console.log(recurssiveFactorial(5));
 console.log(recurssiveFactorial(0));
 console.log(recurssiveFactorial(1));
+
+// bid-o = 0(n)
