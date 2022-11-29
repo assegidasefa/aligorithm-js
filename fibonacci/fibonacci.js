@@ -21,3 +21,6 @@ const fibrecurrsion = (n) => {
 console.log(fibrecurrsion(6));
 console.log(fibrecurrsion(1));
 console.log(fibrecurrsion(0));
+
+// 0(n) - Itrative
+// 0(2*n) - Recurssive
